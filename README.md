@@ -2,8 +2,10 @@
 Işıklı Kapak Ürünleri Tanıtımı İçin Unity WebGL uygulaması
 </br>
 </br>
-Uygulamanın Canlı Adresi:
+Uygulamanın Canlı Demosu:
 https://ahmetkm.github.io/WebGLIsikliKapak/
+</br>
+(Uygulama bazı mobil cihazlarda çalışmamaktadır)
 </br>
 </br>
 Ürünün Işık Şiddeti Ayarı
